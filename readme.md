@@ -1,5 +1,8 @@
 # Command Pattern 
 
+
+![Command Pattern Diagram](https://github.com/latreta/commandpattern/raw/master/command.png)
+
 ## Intenção
 
 Encapsular uma solicitação em forma de objeto, permitindo parametrizar clientes com diferentes solicitações, enfileirar solicitações, registrar logs das mesmas e oferecer suporte para desfazer as solicitações/operações.
